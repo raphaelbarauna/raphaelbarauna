@@ -9,8 +9,9 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/raphaelbarauna">
 
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbarauna&layout=compact">
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbarauna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+```
 
 <div>
  <a href="https://github.com/raphaelbarauna"> 
