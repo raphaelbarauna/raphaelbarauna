@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 <div>
   <a href="https://github.com/raphaelbarauna">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raphaelbarauna&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbarauna&layout=compact">
 
 <div>
  <a href="https://github.com/raphaelbarauna"> 
